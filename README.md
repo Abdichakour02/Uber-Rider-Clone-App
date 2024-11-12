@@ -19,25 +19,25 @@ This is a Flutter-based Uber Clone application for riders and drivers. It provid
 > Include screenshots of different screens like the home page, booking page, driver earnings page, profile, etc.
 
 ### App Drawer Screen
-![App drawer Screen](screenshots\appdrawer.png) <!-- Replace # with the path to the image in your repo -->
+![App drawer Screen](/screenshots/appdrawer.png) <!-- Replace # with the path to the image in your repo -->
 
 ### Registeration Screen
-![Registeration Screen](screenshots\registerationpage.png) <!-- Replace # with the path to the image in your repo -->
+![Registeration Screen](/screenshots/registerationpage.png) <!-- Replace # with the path to the image in your repo -->
 
 ### Login Screen
-![Login Screen](screenshots\loginpage.png) <!-- Replace # with the path to the image in your repo -->
+![Login Screen](/screenshots/loginpage.png) <!-- Replace # with the path to the image in your repo -->
 
 ### Home Screen
-![Home Screen](screenshots\hometabpage.png) <!-- Replace # with the path to the image in your repo -->
+![Home Screen](/screenshots/hometabpage.png) <!-- Replace # with the path to the image in your repo -->
 
 ### Rating Screen
-![Rating Page](screenshots\ratingstabpage.png)
+![Rating Page](/screenshots/ratingstabpage.png)
 
 ### Driver Profile Screen
-![Driver Profile Screen](screenshots\profiletabpage.png)
+![Driver Profile Screen](/screenshots/profiletabpage.png)
 
 ### Earnings Page
-![Earnings Page](screenshots\earningstabpage.png)
+![Earnings Page](/screenshots/earningstabpage.png)
 
 
 ---
