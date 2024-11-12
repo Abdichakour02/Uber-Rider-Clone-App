@@ -41,7 +41,7 @@ class _HomeTabPageState extends State<HomeTabPage> {
               color: Colors.grey[300], // Placeholder for the map
               child: Center(
                 child: Image.asset(
-                  "assets/images/map.png",
+                  "/assets/images/map.png",
                   fit: BoxFit
                       .cover, // This ensures the image covers the entire area
                   width: double.infinity,
