@@ -1,4 +1,4 @@
-# Uber Clone App
+# Uber Rider Clone App
 
 This is a Flutter-based Uber Clone application for riders and drivers. It provides key features of a ride-hailing app, including booking rides, tracking driver location, and an earnings dashboard for drivers.
 
