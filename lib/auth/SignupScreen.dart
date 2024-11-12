@@ -30,7 +30,7 @@ class _SignUpScreenState extends State<SignUpScreen> {
               SizedBox(
                 width: 100, // Set the width to 150 pixels
                 height: 100, // Set the height to 150 pixels
-                child: Image.asset("assets/images/uber_logo.png"),
+                child: Image.asset("/assets/images/uber_logo.png"),
               ),
               const SizedBox(
                 height: 10,
