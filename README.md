@@ -10,35 +10,34 @@ This is a Flutter-based Uber Clone application for riders and drivers. It provid
 - **Driver Earnings Page**: View earnings, trips, and ratings for drivers.
 - **Profile Management**: Manage personal details such as name, email, and car information.
 - **Ratings and Reviews**: Rate rides and view ratings for drivers.
-- **Light and Dark Mode**: Switch between light and dark themes.
 
 ---
 
+
 ## Screenshots
 
-> Include screenshots of different screens like the home page, booking page, driver earnings page, profile, etc.
+> Screenshots of different screens like the home page, booking page, driver earnings page, profile, etc.
 
 ### App Drawer Screen
-![App drawer Screen](/screenshots/appdrawer.png) <!-- Replace # with the path to the image in your repo -->
+<img src="/screenshots/appdrawer.png" alt="App Drawer Screen" width="300"/>
 
-### Registeration Screen
-![Registeration Screen](/screenshots/registerationpage.png) <!-- Replace # with the path to the image in your repo -->
+### Registration Screen
+<img src="/screenshots/registerationpage.png" alt="Registration Screen" width="300"/>
 
 ### Login Screen
-![Login Screen](/screenshots/loginpage.png) <!-- Replace # with the path to the image in your repo -->
+<img src="/screenshots/loginpage.png" alt="Login Screen" width="300"/>
 
 ### Home Screen
-![Home Screen](/screenshots/hometabpage.png) <!-- Replace # with the path to the image in your repo -->
+<img src="/screenshots/hometabpage.png" alt="Home Screen" width="300"/>
 
 ### Rating Screen
-![Rating Page](/screenshots/ratingstabpage.png)
+<img src="/screenshots/ratingstabpage.png" alt="Rating Screen" width="300"/>
 
 ### Driver Profile Screen
-![Driver Profile Screen](/screenshots/profiletabpage.png)
+<img src="/screenshots/profiletabpage.png" alt="Driver Profile Screen" width="300"/>
 
 ### Earnings Page
-![Earnings Page](/screenshots/earningstabpage.png)
-
+<img src="/screenshots/earningstabpage.png" alt="Earnings Page" width="300"/>
 
 ---
 
