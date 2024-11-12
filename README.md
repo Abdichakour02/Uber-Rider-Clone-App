@@ -6,7 +6,6 @@ This is a Flutter-based Uber Clone application for riders and drivers. It provid
 
 - **User Registration and Login**: Secure user authentication for both riders and drivers.
 - **Real-time Map Integration**: Interactive map to show driver location and routes.
-- **Ride Booking**: Book rides with estimated fare and destination details.
 - **Driver Earnings Page**: View earnings, trips, and ratings for drivers.
 - **Profile Management**: Manage personal details such as name, email, and car information.
 - **Ratings and Reviews**: Rate rides and view ratings for drivers.
@@ -48,8 +47,7 @@ Follow these instructions to set up and run the Uber Clone app on your local mac
 ### Prerequisites
 
 - Flutter SDK: [Install Flutter](https://flutter.dev/docs/get-started/install)
-- Android Studio or Xcode: For running the app on Android or iOS devices.
-- Google Maps API Key: [Obtain a Google Maps API Key](https://developers.google.com/maps/gmp-get-started)
+- Android Studio or VsCode: For running the app on Android or iOS devices.
 
 ### Installation
 
@@ -78,7 +76,6 @@ lib/
   pages/: Main app pages like home, profile, and earnings.
   widgets/: Custom widgets like the earnings card and profile details.
   models/: Data models used across the app.
-  services/: Services for maps, authentication, etc.
 
 ## Contributing
 Feel free to submit issues or pull requests to help improve the app. When contributing, please ensure that your changes follow best practices.
